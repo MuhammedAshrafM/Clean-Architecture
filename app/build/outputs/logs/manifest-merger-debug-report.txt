@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.room:room-ktx:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a2a7d66a0dcfa2e6cdea5cf7f86b9804/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/4a2d4ed5c963092f9f89c0f0378061ec/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/aa1f518e4193a0c32f1af3372fd52bb6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/2ce73ba4b868bee85ce92d3a86775f2f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9c08206cfc31e6338a9a08e974d6b5bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a8dcdbc775750a6b496d8df7620d449c/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5cce3438c9747eca434587891510ca79/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3be33fb1664b118440ef5a3850a6c26a/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a279359c4d68824b58a4ea85c54550ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/beab7b3cb3e5237b6ac2bdc0610fdbe1/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/de148ff2917f6cbbdf75fa2c4f0b6df5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/76ec2d201473106e6b14cd6ffa319936/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/75934bfe86e0922040651c89d17b283c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c995428c9a2faa436fc5bf3230c1caa8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/f1b0887587c842065f48cb6fb75a10e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5d4b2c3cd24b81da818d978fdb0cf51f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/436631794667ef37ad64d194064e43b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3b8fe019624aec42b6daec1d5670c197/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a8c2cf710b0fd727b35ed18b354a9060/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/e7b2a8e1b47511f5b6b759bba0f26a1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9a89dc6d60ac6f412b5324e5726bdeca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c803e9bc7668b262e57faec517bdee60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9b3f19b632a278443e7c8e210474dd84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/f34d39b7f01085ff66baf1a012b84633/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/b138df1762c866148b648bc7040569c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/d85e882844fbf1f450298d0fa16c0758/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3abc777b7575632743d73c794d4af9d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da29436832ab72142de4ac16be9dcdcd/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/47946f0ea4af9ac47a3a53076a02d0fd/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da882d906ac9031ddbb1dedde70c2e44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/0561429cbe3b858f9d0f5dfb067df740/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/70d61c51486dd2f0a857508db2f9eec1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/95af97cc2a3a68d979438c2eff418cbf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5d5a2980d8c700cc3694602a63d2e276/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/28949071c3b95b864dbac57746330a9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/01ce08aebac8af2ae8ce4b208c27132f/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a5d5d4e4839793ee39cca3afc3e731f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/21f162ced8b5fe80bc91026383bdf179/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/e7f97715ff3035a13a93c53a67cb67b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/b7f76fae83f3b694a989c8bbb97d3f07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/77c9d820fc34bb14ec9dbea1591df3a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/507441c6d4c9814c8fa568729711fc20/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c435186688eff7a1ad11ac7239849d6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/7edefdb18a580c8f7e62816f0da2b9f6/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:11-61
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:5:3-27:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/4a2d4ed5c963092f9f89c0f0378061ec/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/4a2d4ed5c963092f9f89c0f0378061ec/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/2ce73ba4b868bee85ce92d3a86775f2f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/2ce73ba4b868bee85ce92d3a86775f2f/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5cce3438c9747eca434587891510ca79/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5cce3438c9747eca434587891510ca79/AndroidManifest.xml:24:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3be33fb1664b118440ef5a3850a6c26a/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3be33fb1664b118440ef5a3850a6c26a/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/beab7b3cb3e5237b6ac2bdc0610fdbe1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/beab7b3cb3e5237b6ac2bdc0610fdbe1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da29436832ab72142de4ac16be9dcdcd/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da29436832ab72142de4ac16be9dcdcd/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/47946f0ea4af9ac47a3a53076a02d0fd/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/47946f0ea4af9ac47a3a53076a02d0fd/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/01ce08aebac8af2ae8ce4b208c27132f/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/01ce08aebac8af2ae8ce4b208c27132f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da29436832ab72142de4ac16be9dcdcd/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:9:7-58
+activity#com.raywenderlich.android.majesticreader.presentation.MainActivity
+ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:13:5-17:16
+	android:label
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:15:9-52
+	android:theme
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:14:9-50
+activity#com.raywenderlich.android.majesticreader.presentation.SplashActivity
+ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:20:5-26:16
+	android:name
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:20:15-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:24:19-66
+uses-sdk
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a2a7d66a0dcfa2e6cdea5cf7f86b9804/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a2a7d66a0dcfa2e6cdea5cf7f86b9804/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/4a2d4ed5c963092f9f89c0f0378061ec/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/4a2d4ed5c963092f9f89c0f0378061ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/aa1f518e4193a0c32f1af3372fd52bb6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/aa1f518e4193a0c32f1af3372fd52bb6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/2ce73ba4b868bee85ce92d3a86775f2f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/2ce73ba4b868bee85ce92d3a86775f2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9c08206cfc31e6338a9a08e974d6b5bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9c08206cfc31e6338a9a08e974d6b5bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a8dcdbc775750a6b496d8df7620d449c/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a8dcdbc775750a6b496d8df7620d449c/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5cce3438c9747eca434587891510ca79/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5cce3438c9747eca434587891510ca79/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3be33fb1664b118440ef5a3850a6c26a/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3be33fb1664b118440ef5a3850a6c26a/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a279359c4d68824b58a4ea85c54550ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a279359c4d68824b58a4ea85c54550ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/beab7b3cb3e5237b6ac2bdc0610fdbe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/beab7b3cb3e5237b6ac2bdc0610fdbe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/de148ff2917f6cbbdf75fa2c4f0b6df5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/de148ff2917f6cbbdf75fa2c4f0b6df5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/76ec2d201473106e6b14cd6ffa319936/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/76ec2d201473106e6b14cd6ffa319936/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/75934bfe86e0922040651c89d17b283c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/75934bfe86e0922040651c89d17b283c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c995428c9a2faa436fc5bf3230c1caa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c995428c9a2faa436fc5bf3230c1caa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/f1b0887587c842065f48cb6fb75a10e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/f1b0887587c842065f48cb6fb75a10e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5d4b2c3cd24b81da818d978fdb0cf51f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5d4b2c3cd24b81da818d978fdb0cf51f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/436631794667ef37ad64d194064e43b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/436631794667ef37ad64d194064e43b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3b8fe019624aec42b6daec1d5670c197/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3b8fe019624aec42b6daec1d5670c197/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a8c2cf710b0fd727b35ed18b354a9060/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a8c2cf710b0fd727b35ed18b354a9060/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/e7b2a8e1b47511f5b6b759bba0f26a1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/e7b2a8e1b47511f5b6b759bba0f26a1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9a89dc6d60ac6f412b5324e5726bdeca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9a89dc6d60ac6f412b5324e5726bdeca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c803e9bc7668b262e57faec517bdee60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c803e9bc7668b262e57faec517bdee60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9b3f19b632a278443e7c8e210474dd84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/9b3f19b632a278443e7c8e210474dd84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/f34d39b7f01085ff66baf1a012b84633/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/f34d39b7f01085ff66baf1a012b84633/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/b138df1762c866148b648bc7040569c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/b138df1762c866148b648bc7040569c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/d85e882844fbf1f450298d0fa16c0758/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/d85e882844fbf1f450298d0fa16c0758/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3abc777b7575632743d73c794d4af9d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3abc777b7575632743d73c794d4af9d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da29436832ab72142de4ac16be9dcdcd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da29436832ab72142de4ac16be9dcdcd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/47946f0ea4af9ac47a3a53076a02d0fd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/mostafa/.gradle/caches/transforms-2/files-2.1/47946f0ea4af9ac47a3a53076a02d0fd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da882d906ac9031ddbb1dedde70c2e44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/da882d906ac9031ddbb1dedde70c2e44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/0561429cbe3b858f9d0f5dfb067df740/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/0561429cbe3b858f9d0f5dfb067df740/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/70d61c51486dd2f0a857508db2f9eec1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/70d61c51486dd2f0a857508db2f9eec1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/95af97cc2a3a68d979438c2eff418cbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/95af97cc2a3a68d979438c2eff418cbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5d5a2980d8c700cc3694602a63d2e276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5d5a2980d8c700cc3694602a63d2e276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/28949071c3b95b864dbac57746330a9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/mostafa/.gradle/caches/transforms-2/files-2.1/28949071c3b95b864dbac57746330a9e/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/01ce08aebac8af2ae8ce4b208c27132f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/01ce08aebac8af2ae8ce4b208c27132f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a5d5d4e4839793ee39cca3afc3e731f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/a5d5d4e4839793ee39cca3afc3e731f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/21f162ced8b5fe80bc91026383bdf179/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/21f162ced8b5fe80bc91026383bdf179/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/e7f97715ff3035a13a93c53a67cb67b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/e7f97715ff3035a13a93c53a67cb67b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/b7f76fae83f3b694a989c8bbb97d3f07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/b7f76fae83f3b694a989c8bbb97d3f07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/77c9d820fc34bb14ec9dbea1591df3a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/77c9d820fc34bb14ec9dbea1591df3a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/507441c6d4c9814c8fa568729711fc20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/507441c6d4c9814c8fa568729711fc20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c435186688eff7a1ad11ac7239849d6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/c435186688eff7a1ad11ac7239849d6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/7edefdb18a580c8f7e62816f0da2b9f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/7edefdb18a580c8f7e62816f0da2b9f6/AndroidManifest.xml:20:5-44
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mostafa/Downloads/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5cce3438c9747eca434587891510ca79/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5cce3438c9747eca434587891510ca79/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/5cce3438c9747eca434587891510ca79/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/mostafa/.gradle/caches/transforms-2/files-2.1/3c258942cb27d5c62fff2ccb8b36e931/AndroidManifest.xml:24:13-79
